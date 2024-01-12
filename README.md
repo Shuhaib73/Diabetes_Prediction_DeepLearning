@@ -1,78 +1,61 @@
-## **Predecting Employee Termination Using Advanced Neural Network (ANN)**
+## **Deep learning approach for diabetes prediction**
 
 #### Description
 
-       - This dataset encapsulates information about employee status, specifically highlighting terminations. For each of the 10 years covered, the dataset provides details on both active employees and those who have undergone termination.* 
-       - The provided dataset comprises 49,653 entries and includes 18 columns, each representing a specific aspect of employee information.* 
-       - This dataset is well-structured and includes diverse information about employees, allowing for a comprehensive analysis of factors influencing employee status, with a particular emphasis on terminations. The combination of numerical and categorical data types in the columns provides flexibility for various analytical approaches, such as trend analysis, predictive modeling, and exploration of employee demographics.
-
+       - This dataset presents a comprehensive compilation of information related to diabetes, specifically focusing on predictive factors. The dataset encompasses 520 entries, providing a detailed overview of various aspects related to individuals' health.
+       - Each entry includes 17 columns, capturing essential information such as age, gender, and the presence or absence of symptoms related to diabetes. The dataset's structure enables a thorough analysis of potential predictors, allowing for the exploration of patterns and trends that may contribute to diabetes diagnosis.
+       - The columns include both numerical and categorical data types, offering versatility for diverse analytical approaches. This dataset serves as a valuable resource for developing predictive models using deep learning techniques, aiming to enhance the accuracy of diabetes diagnosis. The inclusion of categorical variables like gender and binary indicators for symptoms ensures a nuanced exploration of the factors influencing diabetes prediction.
+       
 #### Objective
-```The primary objective of this dataset is to assess and analyze the employment status of individuals based on the available data. By leveraging the information provided, the project aims to uncover insights into the factors contributing to terminations, identify patterns in employee turnover, and develop predictive models for future employment outcomes.```
+```The primary goal of this dataset is to delve into the intricate landscape of diabetes prediction by thoroughly analyzing individual health attributes. By harnessing the rich information embedded in the dataset, our project aims to unravel critical insights into the factors influencing diabetes, discern patterns indicative of the condition's onset, and construct robust predictive models. Through this exploration, we seek to advance our understanding of the nuanced relationships between various health indicators, paving the way for more accurate and timely predictions of diabetes in individuals.```
 
 #### **Exploratory Data Analysis (EDA)**
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
+              <strong>​✒️<Click here to see :</strong> Distribution of Diabetes Based on gender
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' style='width: 50%;' />
+                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d1.PNG)' style='width: 50%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Age
+              <strong>​✒️<Click here to see :</strong> Distribution of Diabetes Based on Age
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Age_att.PNG' style='width: 70%;' />
+                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Age_att.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d2.PNG)' style='width: 70%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Gender
+              <strong>​✒️<Click here to see :</strong> Classification Report for Training set
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/gender_at.PNG' style='width: 50%;' />
+                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/gender_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d4.PNG)' style='width: 50%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count By Department
+              <strong>​✒️<Click here to see :</strong> Classification Report for Testing set
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Dep_at.PNG' style='width: 70%;' />
+                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Dep_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d5.PNG)' style='width: 70%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count By City
+              <strong>​✒️<Click here to see :</strong> Confusion Matrix for Training & Testing
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/city_at.PNG' style='width: 70%;' />
+                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/city_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d3.PNG)' style='width: 70%;' />
                      </p>
 </details>
 
-<details>
-       <summary>
-              <strong>​✒️<Click here to see :</strong> Classification Report
-       </summary>
-                     <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/clss.PNG' style='width: 60%;' />
-                     </p>
-</details>
-
-<details>
-       <summary>
-              <strong>​✒️<Click here to see :</strong> Confusion Matrix
-       </summary>
-                     <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Confu.PNG' style='width: 90%;' />
-                     </p>
-</details>
 
 ## The project pipeline can be summarized in the following steps: 
 #### **Data Understanding and Exploration** : 
