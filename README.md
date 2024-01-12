@@ -16,7 +16,7 @@
               <strong>​✒️<Click here to see :</strong> Distribution of Diabetes Based on gender
        </summary>
                      <p align='center'>
-                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d1.PNG)' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d1.PNG' style='width: 50%;' />
                      </p>
 </details>
 
@@ -25,7 +25,7 @@
               <strong>​✒️<Click here to see :</strong> Distribution of Diabetes Based on Age
        </summary>
                      <p align='center'>
-                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Age_att.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d2.PNG)' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d2.PNG' style='width: 70%;' />
                      </p>
 </details>
 
@@ -34,7 +34,7 @@
               <strong>​✒️<Click here to see :</strong> Classification Report for Training set
        </summary>
                      <p align='center'>
-                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/gender_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d4.PNG)' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d4.PNG' style='width: 50%;' />
                      </p>
 </details>
 
@@ -43,7 +43,7 @@
               <strong>​✒️<Click here to see :</strong> Classification Report for Testing set
        </summary>
                      <p align='center'>
-                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Dep_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d5.PNG)' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d5.PNG' style='width: 70%;' />
                      </p>
 </details>
 
@@ -52,21 +52,25 @@
               <strong>​✒️<Click here to see :</strong> Confusion Matrix for Training & Testing
        </summary>
                      <p align='center'>
-                            <img src='[https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/city_at.PNG](https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d3.PNG)' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d3.PNG' style='width: 70%;' />
                      </p>
 </details>
 
 
 ## The project pipeline can be summarized in the following steps: 
 #### **Data Understanding and Exploration** : 
-```In the initial phase of our project, we focus on understanding and exploring the dataset. This involves loading the data and delving into the characteristics of the available features. By performing exploratory data analysis (EDA), we gain insights into the distribution of variables, identify potential patterns, and understand the relationships between different features. This understanding guides us in selecting relevant features for our final model, laying the foundation for subsequent phases.``` 
+```In the preliminary stages of our diabetes prediction project,, our primary emphasis is on comprehending and exploring the dataset. This initial phase entails the loading of data and a deep dive into the attributes of the provided features. Through the application of exploratory data analysis (EDA), we aim to extract valuable insights into the distribution of variables, discern potential patterns, and grasp the interrelationships among different features. This enhanced understanding serves as a compass in our journey to identify pertinent features crucial for constructing our final predictive model, thereby establishing a robust foundation for subsequent project phases.``` 
 #### <strong>Data Preprocessing</strong>: 
-```The data preprocessing phase is crucial for ensuring the quality and reliability of our model. We address missing values, handle outliers, and perform any necessary data cleansing tasks. This step contributes to the overall data integrity and prepares the dataset for model training. Additionally, we consider feature engineering and transformations to enhance the model's performance by creating new meaningful features or transforming existing ones.```
+```The data preprocessing phase plays a pivotal role in guaranteeing the quality and reliability of our diabetes prediction model. In this crucial stage, we meticulously address missing values, manage outliers, and execute essential data cleansing tasks. These steps are fundamental in maintaining the overall integrity of the dataset, priming it for effective model training. Moreover, we delve into feature engineering and transformations, aiming to elevate the model's performance by either crafting new, meaningful features or refining existing ones. This strategic approach further contributes to the robustness and predictive capabilities of our diabetes prediction model.```
 #### <strong>Feature Selection and Engineering</strong>: 
-```Building on insights gained from EDA, we refine our feature selection strategy to focus on the most influential variables. Feature engineering techniques are explored to further improve the predictability of our model. This phase aims to enhance the model's ability to capture relevant patterns in the data, contributing to better overall performance.```
+```Building upon the insights gleaned during the Exploratory Data Analysis (EDA) phase, we fine-tune our feature selection strategy to spotlight the most impactful variables. Our focus shifts to exploring advanced feature engineering techniques, aiming to extract additional predictive power from the dataset. This critical phase is designed to bolster the model's predictability by empowering it to capture pertinent patterns in the data. The overarching goal is to significantly enhance the model's overall performance, ensuring it excels in discerning nuanced relationships and patterns relevant to diabetes prediction.```
 #### <strong>Model Building and Hyperparameter Tuning</strong>: 
-```The heart of the project lies in building and fine-tuning our model. We explore various machine learning models, with a specific emphasis on Artificial Neural Networks (ANN) – a powerful tool for complex pattern recognition. The architecture of the ANN is carefully crafted, and hyperparameters are tuned to optimize model performance.```
+```At the core of our project is the pivotal task of constructing and fine-tuning our predictive model. We embark on an exploration of diverse machine learning models, placing a particular emphasis on harnessing the capabilities of Artificial Neural Networks (ANN). Recognized for their prowess in handling complex pattern recognition tasks, ANNs emerge as a powerful tool in our pursuit of accurate diabetes prediction.```
+
+```The architecture of the ANN is meticulously crafted, with a keen eye on optimizing its performance. This involves a careful consideration of hyperparameters, ensuring they are tuned to strike the right balance and unlock the full potential of the model. The iterative process of refining the ANN's architecture and tuning hyperparameters forms a critical phase, culminating in a model finely attuned to the intricacies of diabetes prediction.```
 #### <strong>Model Evaluation</strong>: 
-```The final phase assesses the performance of our model using appropriate metrics. In the context of our project, the focus is on accurately classifying different employee status categories. We analyze metrics such as accuracy, precision, recall, and F1-score to gauge the model's effectiveness.```
+```In the conclusive phase, we meticulously evaluate the performance of our diabetes prediction model using a set of pertinent metrics. Within the context of our project, our primary focus lies in the precise classification of individuals into different diabetes status categories. To gauge the effectiveness of our model, we conduct a thorough analysis of key metrics, including accuracy, precision, recall, and F1-score. These metrics serve as critical benchmarks, providing insights into the model's overall efficacy in accurately identifying and categorizing instances of diabetes within the dataset.```
 #### <strong>Conclusion</strong>: 
-```The model exhibits exceptional performance on the training and testing set, achieving 100% precision, recall, and F1-score for both classes (0 and 1). The support values indicate that all instances of both classes were accurately predicted. The overall accuracy of the model is also perfect, with a value of 1.00. This outstanding performance underscores the model's ability to precisely classify employee status, making it a highly reliable tool for predicting terminations.```
+```The model demonstrates exceptional performance on both the training and testing sets, achieving impeccable results with 100% precision, recall, and F1-score for both classes (0 and 1). The support values further affirm the model's accuracy by indicating that all instances of both classes were accurately predicted. Notably, the overall accuracy of the model attains a perfect score of 99%.```
+
+```This outstanding performance underscores the model's remarkable ability to precisely classify individual diabetes status, making it an exceedingly reliable and robust tool for predicting the onset of diabetes. The high precision and recall values reflect the model's proficiency in both minimizing false positives and capturing a substantial portion of true positive instances, affirming its effectiveness in real-world applications and reinforcing its potential as a valuable asset in diabetes prediction.```
