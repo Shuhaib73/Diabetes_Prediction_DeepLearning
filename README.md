@@ -43,7 +43,7 @@
               <strong>​✒️<Click here to see :</strong> Classification Report for Testing set
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d5.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d5.PNG' style='width: 50%;' />
                      </p>
 </details>
 
