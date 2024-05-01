@@ -25,7 +25,7 @@
               <strong>​✒️<Click here to see :</strong> Distribution of Diabetes Based on Age
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d2.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Diabetes_Prediction_DeepLearning/blob/main/d2.PNG' style='width: 50%;' />
                      </p>
 </details>
 
